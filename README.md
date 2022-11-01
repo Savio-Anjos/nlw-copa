@@ -1,1 +1,1 @@
-# nlw-copa
+# nlw-copa (em desenvolvimento)
