@@ -1,5 +1,9 @@
 
-export default function Home(props: any) {
+interface HomeProps {
+  count: number
+}
+
+export default function Home(props: HomeProps) {
 
   return (
 
