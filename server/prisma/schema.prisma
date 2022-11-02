@@ -54,7 +54,7 @@ model Game {
 
   firstTeamCountryCode  String
   secondTeamCountryCode String
-  gueses                Guess[]
+  guesses               Guess[]
 }
 
 model Guess {
